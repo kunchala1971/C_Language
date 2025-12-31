@@ -1,3 +1,4 @@
+//4.Symbolic constants usage example
 #include <stdio.h>
 #define PI 3.1416
 #define P printf // instead of printf you can also use P, becuase we define P as printf

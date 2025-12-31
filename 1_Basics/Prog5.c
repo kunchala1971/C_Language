@@ -1,4 +1,4 @@
-//4.Simple Interest Calculation(pnr/100)
+//5.Simple Interest Calculation(pnr/100)
 #include <stdio.h>
 int main()
 {
