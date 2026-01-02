@@ -2,7 +2,6 @@
 #include <stdio.h>
 int main()
 {
-
     int isPrime=0,num,i;
     printf("Enter any number");
     scanf("%d",&num);
